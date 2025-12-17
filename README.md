@@ -1,11 +1,13 @@
-```markdown
-# Proyecto Final – Estadística y Probabilidad
+Proyecto Final – Estadística y Probabilidad
 
 Este repositorio contiene el Proyecto Final de la asignatura Estadística y Probabilidad, desarrollado como una aplicación web que integra contenidos teóricos, trabajos académicos, encuestas y análisis de datos.
 
-El objetivo principal del proyecto es aplicar los conceptos vistos durante el curso en un entorno práctico, utilizando herramientas web para la organización, visualización y análisis de información estadística.
+El proyecto funciona completamente en el navegador.
 
-## Objetivos
+Enlace del proyecto:
+https://jeang507.github.io/Probabilidad-y-Estad-stica/
+
+Objetivos
 
 Aplicar conceptos fundamentales de estadística y probabilidad.
 
@@ -17,9 +19,8 @@ Integrar teoría y práctica en un solo proyecto.
 
 Mantener una estructura clara y ordenada acorde a un proyecto académico.
 
-## Contenido del Proyecto
-
-### Módulos Conceptuales
+Contenido del Proyecto
+Módulos Conceptuales
 
 Se incluyen módulos teóricos desarrollados en HTML que cubren los principales temas del curso:
 
@@ -45,7 +46,7 @@ Correlación
 
 Cada módulo contiene explicaciones claras, ejemplos y enlaces a material de apoyo.
 
-### Trabajos Académicos
+Trabajos Académicos
 
 El proyecto reúne 16 trabajos realizados durante el semestre, organizados dentro de la carpeta trabajos.
 
@@ -57,7 +58,7 @@ Visualización en HTML
 
 Navegación entre trabajos
 
-### Encuestas
+Encuestas
 
 Se desarrollaron tres encuestas mediante formularios web que permiten:
 
@@ -69,7 +70,7 @@ Visualización de respuestas
 
 Exportación de resultados a archivos Excel
 
-### Análisis y Paneles de Datos
+Análisis y Paneles de Datos
 
 El proyecto incluye diferentes paneles para el análisis de información:
 
@@ -81,13 +82,11 @@ Base de Datos: datasets utilizados para los análisis estadísticos
 
 Las tablas permiten cambiar entre hojas, manejar grandes volúmenes de datos y exportar la información.
 
-### Gráficas
+Gráficas
 
 Se incluyen múltiples gráficas estadísticas en formato PNG, utilizadas como apoyo visual para la interpretación de los datos analizados en el proyecto.
 
-## Estructura del Proyecto
-
-```
+Estructura del Proyecto
 PROYECTOFINALPROBABILIDAD/
 │
 ├── assets/
@@ -122,9 +121,8 @@ PROYECTOFINALPROBABILIDAD/
 ├── base_datos.html
 ├── referencia.html
 └── README.md
-```
 
-## Tecnologías Utilizadas
+Tecnologías Utilizadas
 
 HTML5
 
@@ -140,27 +138,25 @@ SheetJS (XLSX)
 
 LocalStorage
 
-## Ejecución del Proyecto
-
-### Ejecución local
+Ejecución del Proyecto
+Ejecución local
 
 Clonar el repositorio:
 
-```bash
 git clone https://github.com/jeang507/Probabilidad-y-Estad-stica.git
-```
+
 
 Abrir el archivo index.html en el navegador.
 
-### GitHub Pages
+GitHub Pages
 
-El proyecto está publicado y disponible en: [https://jeang507.github.io/Probabilidad-y-Estad-stica/](https://jeang507.github.io/Probabilidad-y-Estad-stica/)
+El proyecto está publicado y disponible en:
+https://jeang507.github.io/Probabilidad-y-Estad-stica/
 
-## Contexto Académico
+Contexto Académico
 
 Proyecto desarrollado como trabajo final universitario para la asignatura Estadística y Probabilidad, integrando los contenidos teóricos y prácticos vistos durante el semestre.
 
-## Estado del Proyecto
+Estado del Proyecto
 
 Proyecto finalizado y funcional.
-```
