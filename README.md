@@ -84,7 +84,7 @@ Las tablas permiten cambiar entre hojas, manejar grandes volúmenes de datos y e
 
 Se incluyen múltiples gráficas estadísticas en formato PNG, utilizadas como apoyo visual para la interpretación de los datos analizados en el proyecto.
 
-## Estructura del Proyecto
+### Estructura del Proyecto
 
 El proyecto está organizado de manera modular para facilitar la navegación, el mantenimiento y la comprensión del contenido.
 
