@@ -1,13 +1,13 @@
-Proyecto Final – Estadística y Probabilidad
+# Proyecto Final – Estadística y Probabilidad
 
 Este repositorio contiene el Proyecto Final de la asignatura Estadística y Probabilidad, desarrollado como una aplicación web que integra contenidos teóricos, trabajos académicos, encuestas y análisis de datos.
 
 El proyecto funciona completamente en el navegador.
 
-Enlace del proyecto:
+### Enlace del proyecto:
 https://jeang507.github.io/Probabilidad-y-Estad-stica/
 
-Objetivos
+## Objetivos
 
 Aplicar conceptos fundamentales de estadística y probabilidad.
 
@@ -19,7 +19,8 @@ Integrar teoría y práctica en un solo proyecto.
 
 Mantener una estructura clara y ordenada acorde a un proyecto académico.
 
-Contenido del Proyecto
+## Contenido del Proyecto
+
 Módulos Conceptuales
 
 Se incluyen módulos teóricos desarrollados en HTML que cubren los principales temas del curso:
@@ -46,7 +47,7 @@ Correlación
 
 Cada módulo contiene explicaciones claras, ejemplos y enlaces a material de apoyo.
 
-Trabajos Académicos
+### Trabajos Académicos
 
 El proyecto reúne 16 trabajos realizados durante el semestre, organizados dentro de la carpeta trabajos.
 
@@ -58,7 +59,7 @@ Visualización en HTML
 
 Navegación entre trabajos
 
-Encuestas
+### Encuestas
 
 Se desarrollaron tres encuestas mediante formularios web que permiten:
 
@@ -86,7 +87,7 @@ Gráficas
 
 Se incluyen múltiples gráficas estadísticas en formato PNG, utilizadas como apoyo visual para la interpretación de los datos analizados en el proyecto.
 
-Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 HTML5
 
@@ -102,7 +103,7 @@ SheetJS (XLSX)
 
 LocalStorage
 
-Ejecución del Proyecto
+### Ejecución del Proyecto
 Ejecución local
 
 Clonar el repositorio:
@@ -117,10 +118,9 @@ GitHub Pages
 El proyecto está publicado y disponible en:
 https://jeang507.github.io/Probabilidad-y-Estad-stica/
 
-Contexto Académico
+## Contexto Académico
 
 Proyecto desarrollado como trabajo final universitario para la asignatura Estadística y Probabilidad, integrando los contenidos teóricos y prácticos vistos durante el semestre.
 
 Estado del Proyecto
-
 Proyecto finalizado y funcional.
